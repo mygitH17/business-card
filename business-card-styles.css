@@ -1,0 +1,46 @@
+body{
+    margin: 20px;
+    width: 800px;
+    margin: 100px auto;
+    background: black;
+}
+
+.outer{
+    
+    background: #e0f4fb;
+    border: 7px solid darkgrey;
+    border-radius: 45px;
+}
+.card-heading{
+    border-radius: 40px;
+    font-style: italic;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 40px;
+    color: #2b2839;
+    background: darkgrey;
+}
+.card{
+    padding: 30px;
+    
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    width: 280px;
+    height: 300px;
+    border-radius: 1000px;
+}
+.tags{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 50px;
+}
+.ml{
+    font-style: italic;
+}
+.name{
+    font-size: 20px;
+    
+}
